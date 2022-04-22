@@ -1,8 +1,7 @@
 ﻿<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/GilbertoASJ/Portfolio">
-    <img 
+  <img 
       src="https://avatars.githubusercontent.com/u/56325350?v=4" 
       alt="Logo Portfólio"
       width="100"
