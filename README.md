@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <img 
-      src="https://avatars.githubusercontent.com/u/56325350?v=4" 
+      src="src/img/perfil.jpeg" 
       alt="Logo Portfólio"
       width="100"
       height="100" 
